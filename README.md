@@ -1,4 +1,4 @@
-# Neighborhood-Map (vegan2map)
+# Neighborhood-Map
 ## Udacity - Front-End Web Developer Nanodegree
 
 # Project rubric from Udacity
